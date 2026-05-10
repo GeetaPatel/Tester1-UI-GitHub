@@ -1,1 +1,1 @@
-console.log("Testcase1 is created bu Tester1");
+console.log("Testcase1 is created by Tester1"); 
